@@ -5,7 +5,7 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'>
-        <p>Sary Elsayed Elmelegy</p>
+        <p>Sary Elsayed Abdelkawy Elmelegy</p>
         <a className='App-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
           Learn React
         </a>
